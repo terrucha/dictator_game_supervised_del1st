@@ -1,0 +1,31 @@
+participant_code,session_code,prolific_id,round_number,allocation,kept,random_decisions,random_payoff_part,delegate_decision_optional,supervised_dataset
+8cvk8aj9,qi4rh3oj,123456789012345678901234,1,51,49,,,,"{""0"": ""51,51,49,59,55,59,50,50,51,56""}"
+8cvk8aj9,qi4rh3oj,,2,51,49,,,,{}
+8cvk8aj9,qi4rh3oj,,3,49,51,,,,{}
+8cvk8aj9,qi4rh3oj,,4,59,41,,,,{}
+8cvk8aj9,qi4rh3oj,,5,55,45,,,,{}
+8cvk8aj9,qi4rh3oj,,6,59,41,,,,{}
+8cvk8aj9,qi4rh3oj,,7,50,50,,,,{}
+8cvk8aj9,qi4rh3oj,,8,50,50,,,,{}
+8cvk8aj9,qi4rh3oj,,9,51,49,,,,{}
+8cvk8aj9,qi4rh3oj,,10,56,44,,,,{}
+8cvk8aj9,qi4rh3oj,,11,23,77,False,,False,{}
+8cvk8aj9,qi4rh3oj,,12,2,98,False,,False,{}
+8cvk8aj9,qi4rh3oj,,13,32,68,False,,False,{}
+8cvk8aj9,qi4rh3oj,,14,43,57,False,,False,{}
+8cvk8aj9,qi4rh3oj,,15,53,47,False,,False,{}
+8cvk8aj9,qi4rh3oj,,16,54,46,False,,False,{}
+8cvk8aj9,qi4rh3oj,,17,64,36,False,,False,{}
+8cvk8aj9,qi4rh3oj,,18,34,66,False,,False,{}
+8cvk8aj9,qi4rh3oj,,19,64,36,False,,False,{}
+8cvk8aj9,qi4rh3oj,,20,34,66,False,,False,{}
+8cvk8aj9,qi4rh3oj,,21,50,50,,,True,"{""0"": ""50,49,51,54,49,56,42,54,57,53""}"
+8cvk8aj9,qi4rh3oj,,22,49,51,,,True,{}
+8cvk8aj9,qi4rh3oj,,23,51,49,,,True,{}
+8cvk8aj9,qi4rh3oj,,24,54,46,,,True,{}
+8cvk8aj9,qi4rh3oj,,25,49,51,,,True,{}
+8cvk8aj9,qi4rh3oj,,26,56,44,,,True,{}
+8cvk8aj9,qi4rh3oj,,27,42,58,,,True,{}
+8cvk8aj9,qi4rh3oj,,28,54,46,,,True,{}
+8cvk8aj9,qi4rh3oj,,29,57,43,,,True,{}
+8cvk8aj9,qi4rh3oj,,30,53,47,,2.0,True,{}
