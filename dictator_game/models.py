@@ -50,6 +50,7 @@ class Group(BaseGroup):
     pass
 
 class Player(BasePlayer):
+    app_name = models.StringField(initial='supervised_del1st')
     prolific_id = models.StringField()
     final_allocations = models.LongStringField()
     conversation_history=models.LongStringField(initial='[]') 
